@@ -1,0 +1,48 @@
+body {
+  overflow: hidden;
+}
+ img {
+  float: left;
+  width: 33%;
+  overflow: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.octocat {
+  list-style: none;
+  background: black;
+  overflow: hidden;
+  display: inline-block;
+  width: 30%;
+}
+
+.octocat a img {
+  margin: auto;
+  
+  overflow: hidden;
+}
+
+.octodex {
+  background: orange;
+  overflow: hidden;
+  margin: 3% 0;
+
+}
+
+.octocat li a {
+  width 100%;
+}
+
+footer {
+
+  background: blue;
+  width: 100%;
+}
+
+.authors li a img {
+  float: right;
+
+}
